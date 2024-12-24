@@ -1,4 +1,4 @@
-![Screenshot 2024-12-25 024803](https://github.com/user-attachments/assets/6423b392-b10b-46a4-9fe7-fb52796b8a35)![Screenshot 2024-12-25 024748](https://github.com/user-attachments/assets/bcc0dd8b-1217-4c0a-bb8f-f558e76bf45f)# StrengthX
+# StrengthX
 
 **The ultimate gym training app built with React & TailwindCSS**
 
@@ -22,7 +22,7 @@ StrengthX is a web app designed to enhance your fitness journey with a sleek, re
 
 Here are some screenshots of the app:
 
-![Screenshot 1]![Screenshot 2024-12-25 024724](https://github.com/user-attachments/assets/b0506491-9090-4ec4-9e04-b81d1f83df18) ![Screenshot 2]![Screenshot 2024-12-25 024748](https://github.com/user-attachments/assets/b9b934bf-9307-4389-a3bc-79e8f53a9e9b) ![Screenshot 3]![Screenshot 2024-12-25 024803](https://github.com/user-attachments/assets/f9a875a9-1731-46f9-a316-e283666cc857)
+![Screenshot 1]![Screenshot 2024-12-25 030111](https://github.com/user-attachments/assets/f9123f05-fe73-4239-b00f-b683c7de8cf8)![Screenshot 2]![Screenshot 2024-12-25 024748](https://github.com/user-attachments/assets/b9b934bf-9307-4389-a3bc-79e8f53a9e9b) ![Screenshot 3]![Screenshot 2024-12-25 024803](https://github.com/user-attachments/assets/f9a875a9-1731-46f9-a316-e283666cc857)
 
 ## Getting Started
 
